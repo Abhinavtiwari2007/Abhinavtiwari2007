@@ -41,6 +41,10 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Abhinavtiwari2007/Abhinavtiwari2007/snake-output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhinavtiwari2007/Abhinavtiwari2007/snake-output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhinavtiwari2007/Abhinavtiwari2007/snake-output/snake.svg" />
+  <img data-importer="snake" alt="Snake animation" src="https://raw.githubusercontent.com/Abhinavtiwari2007/Abhinavtiwari2007/snake-output/snake.svg" />
+</picture>
 
 ###
